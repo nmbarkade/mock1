@@ -6,3 +6,4 @@ if (num % 2) == 0:
 else
 	print ("The number is odd") // odd statement
 print ("Program completed")
+navnath barkade
